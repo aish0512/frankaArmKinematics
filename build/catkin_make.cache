@@ -1,0 +1,2 @@
+franka_control:franka_description:franka_example_controllers:franka_gazebo:franka_gripper:franka_hw:franka_msgs:franka_ros:franka_visualization
+-DCATKIN_DEVEL_PREFIX=/home/aishwarya/Desktop/ROS_panda_arm/devel -DCMAKE_INSTALL_PREFIX=/home/aishwarya/Desktop/ROS_panda_arm/install -G Unix Makefiles
